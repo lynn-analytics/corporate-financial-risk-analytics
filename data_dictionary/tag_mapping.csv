@@ -1,0 +1,21 @@
+standard_metric,xbrl_tag,priority,definition,expected_unit
+revenue,Revenues,1,Total revenue from sale of goods and services,USD
+revenue,SalesRevenueNet,2,Net sales revenue (manufacturing/retail common),USD
+revenue,RevenueFromContractWithCustomerExcludingAssessedTax,3,Revenue from contracts with customers excluding tax (ASC 606),USD
+revenue,RevenueFromContractWithCustomerIncludingAssessedTax,4,Revenue from contracts with customers including tax (ASC 606),USD
+revenue,SalesRevenueGoodsNet,5,Net revenue from sale of goods,USD
+revenue,SalesRevenueServicesNet,6,Net revenue from services,USD
+operating_income,OperatingIncomeLoss,1,Operating income (loss) before interest and taxes,USD
+net_income,NetIncomeLoss,1,Net income (loss) attributable to the entity,USD
+net_income,ProfitLoss,2,Profit or loss (alternate label for net income),USD
+total_assets,Assets,1,Total assets,USD
+total_liabilities,Liabilities,1,Total liabilities,USD
+current_assets,AssetsCurrent,1,Current assets,USD
+current_liabilities,LiabilitiesCurrent,1,Current liabilities,USD
+cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,1,Cash and cash equivalents at carrying value,USD
+cash_and_equivalents,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,2,"Cash, cash equivalents, restricted cash and restricted cash equivalents",USD
+operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,1,Net cash provided by (used in) operating activities,USD
+operating_cash_flow,NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,2,Operating cash flow from continuing operations,USD
+capex,PaymentsToAcquirePropertyPlantAndEquipment,1,"Cash payments to acquire property, plant and equipment",USD
+capex,PaymentsToAcquireProductiveAssets,2,Cash payments to acquire productive assets,USD
+capex,PaymentsForCapitalImprovements,3,Cash payments for capital improvements,USD

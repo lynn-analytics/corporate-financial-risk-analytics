@@ -1,0 +1,43 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw SEC bulk data (too large to commit)
+data/raw/
+data/*.zip
+data/*.7z
+
+# Generated artifacts
+data/processed/*.db
+data/processed/company_year_panel_raw.csv
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.zip
+*.7z
+*.tar
+*.gz
+*.log
+*.tmp
+*.temp
+*.part
+*.bak
+*.twbr
+*.twb.tmp
+~$*
+.env
+.env.*
+.cache/
+.pytest_cache/
+.jupyter/
+.local-work/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db

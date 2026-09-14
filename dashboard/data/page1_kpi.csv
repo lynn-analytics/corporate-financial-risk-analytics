@@ -1,0 +1,6 @@
+metric,label,value,scope,display_value,sort_order
+n_companies,Companies,2767.0,All retained years,"2,767",1
+n_company_years,Company-years,21990.0,Feature years 2012–2024,"21,990",2
+pressure_rate,Financial pressure rate,0.1314826644985191,Known next-year labels only,13.1%,3
+median_operating_margin,Median operating margin,0.06680010113064835,All retained years,6.7%,4
+median_ocf_to_assets,Median OCF / assets,0.08213684876910604,All retained years,8.2%,5

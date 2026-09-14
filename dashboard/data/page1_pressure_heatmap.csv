@@ -1,0 +1,49 @@
+sector,outcome_year,pressure_rate,known_company_years,pressure_cases
+Consumer / Retail,2013,0.07,200,14
+Consumer / Retail,2014,0.03676470588235294,272,10
+Consumer / Retail,2015,0.09824561403508772,285,28
+Consumer / Retail,2016,0.07434944237918216,269,20
+Consumer / Retail,2017,0.057692307692307696,260,15
+Consumer / Retail,2018,0.08270676691729323,266,22
+Consumer / Retail,2019,0.08333333333333333,252,21
+Consumer / Retail,2020,0.25206611570247933,242,61
+Consumer / Retail,2021,0.0823045267489712,243,20
+Consumer / Retail,2022,0.15294117647058825,255,39
+Consumer / Retail,2023,0.13636363636363635,242,33
+Consumer / Retail,2024,0.06,50,3
+Energy / Capital-intensive,2013,0.08187134502923976,171,14
+Energy / Capital-intensive,2014,0.08808290155440414,193,17
+Energy / Capital-intensive,2015,0.3298429319371728,191,63
+Energy / Capital-intensive,2016,0.30601092896174864,183,56
+Energy / Capital-intensive,2017,0.07777777777777778,180,14
+Energy / Capital-intensive,2018,0.05917159763313609,169,10
+Energy / Capital-intensive,2019,0.11940298507462686,201,24
+Energy / Capital-intensive,2020,0.3670212765957447,188,69
+Energy / Capital-intensive,2021,0.1,180,18
+Energy / Capital-intensive,2022,0.02185792349726776,183,4
+Energy / Capital-intensive,2023,0.04046242774566474,173,7
+Energy / Capital-intensive,2024,0.0,5,0
+Industrial / Manufacturing,2013,0.07675438596491228,456,35
+Industrial / Manufacturing,2014,0.07846410684474124,599,47
+Industrial / Manufacturing,2015,0.11627906976744186,602,70
+Industrial / Manufacturing,2016,0.09262435677530018,583,54
+Industrial / Manufacturing,2017,0.09310344827586207,580,54
+Industrial / Manufacturing,2018,0.11623931623931624,585,68
+Industrial / Manufacturing,2019,0.12203389830508475,590,72
+Industrial / Manufacturing,2020,0.25,600,150
+Industrial / Manufacturing,2021,0.1412151067323481,609,86
+Industrial / Manufacturing,2022,0.2047244094488189,635,130
+Industrial / Manufacturing,2023,0.17475728155339806,618,108
+Industrial / Manufacturing,2024,0.11578947368421053,95,11
+Technology / Software / Electronics,2013,0.09547738693467336,398,38
+Technology / Software / Electronics,2014,0.1161524500907441,551,64
+Technology / Software / Electronics,2015,0.1308411214953271,535,70
+Technology / Software / Electronics,2016,0.13524590163934427,488,66
+Technology / Software / Electronics,2017,0.09473684210526316,475,45
+Technology / Software / Electronics,2018,0.08502024291497975,494,42
+Technology / Software / Electronics,2019,0.12280701754385964,513,63
+Technology / Software / Electronics,2020,0.16283524904214558,522,85
+Technology / Software / Electronics,2021,0.13333333333333333,540,72
+Technology / Software / Electronics,2022,0.21555915721231766,617,133
+Technology / Software / Electronics,2023,0.18213058419243985,582,106
+Technology / Software / Electronics,2024,0.13131313131313133,99,13

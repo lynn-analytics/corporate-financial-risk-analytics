@@ -1,0 +1,7 @@
+feature_year,risk_tier,n_company_years,share,tier_order
+2021,High Review Priority,169,0.1,1
+2021,Medium Review Priority,85,0.05029585798816568,2
+2021,Routine Monitoring,1436,0.8497041420118343,3
+2022,High Review Priority,162,0.10030959752321982,1
+2022,Medium Review Priority,81,0.05015479876160991,2
+2022,Routine Monitoring,1372,0.8495356037151702,3

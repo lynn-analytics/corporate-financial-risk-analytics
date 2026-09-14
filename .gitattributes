@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.py text
+*.ipynb text
+*.csv text
+*.md text
+*.sql text
+*.txt text
+*.twb text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.twbx binary
+*.hyper binary
+*.zip binary
